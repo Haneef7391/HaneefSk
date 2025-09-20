@@ -695,7 +695,6 @@
   }
   
   .paperrocket {
-    display:none;
     position: absolute;
     top: 80px;
     right: 270px;
@@ -1044,6 +1043,7 @@
     padding: 3px 2px;
   }
 }
+
 
 
 
